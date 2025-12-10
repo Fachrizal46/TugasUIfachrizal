@@ -42,3 +42,5 @@ npm run build
 ```sh
 npm run lint
 ```
+LINK VIDEO LOOM : 
+[text](https://www.loom.com/share/353663d69bb24c618630dc00053eb776)
